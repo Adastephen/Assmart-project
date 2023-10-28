@@ -1,0 +1,33 @@
+#firstbody {
+    padding: 7rem;
+}
+#cardsize {
+    width: 18rem;
+}
+div #iconButton:hover {
+    color: blue;
+}
+#cardbutton {
+    width: 100%;
+    max-width: 50%;
+    margin: auto;
+}
+#firstfooter{
+    width: auto;
+}
+#secondfooter {
+    background-color: rgb(50, 48, 48);
+}
+#wholefooter{
+    background-color: rgb(50, 48, 48);
+    
+}
+#copyright{
+    border-top: 1px solid gray;
+}
+#iconsvg{
+    width: 56px;
+}
+#navcontainer{
+    width: 100%;
+}

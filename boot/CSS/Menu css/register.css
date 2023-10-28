@@ -1,0 +1,37 @@
+#formdiv{
+    width: 80%;
+    margin: auto;
+    height: 50rem;
+    
+    
+}
+form{
+    background-color: white;
+}
+#forminput{
+    width: 100%;
+    padding: 10px 30px 10px 30px;
+    border-radius: 16px;
+    border: 1px solid;
+}
+#submit{
+    width: 100%;
+    padding: 10px 30px 10px 30px;
+    border-radius: 32px;
+    background-color: rgba(91, 91, 237, 0.551);
+    color: black;
+    font-weight: bold;
+}
+#imgreg{
+    height: 500px;
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+#label{
+    font-weight: bold;
+}
+a #forget{
+    float: right;
+    margin-top: 0px;
+}
